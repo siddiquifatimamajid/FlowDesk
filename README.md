@@ -62,7 +62,7 @@ The design considers three viewport sizes:
 
 FlowDesk-Landing-Page/
 │
-└── https://stitch.google.com/projects/4023194764307151545
+└── https://claude.ai/code/artifact/6f40254a-ccd3-45d9-ae8b-c269576f1594
 
 Additional assets and files may be included depending on the final export.
 
